@@ -42,7 +42,7 @@ html_page_title2 = """
 st.markdown(html_page_title2, unsafe_allow_html=True)
 
 
-hf_model = "SilvioLima/absa_model_v1"
+hf_model = "SilvioLima/absa_model"
 
 hf_ds = "SilvioLima/absa"
 
